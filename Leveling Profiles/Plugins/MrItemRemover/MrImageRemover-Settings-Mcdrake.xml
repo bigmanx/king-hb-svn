@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MIRsettings>
+  <GrayItems>False</GrayItems>
+  <SellGray>True</SellGray>
+  <SellGreen>True</SellGreen>
+  <SellWhite>True</SellWhite>
+  <EnableSell>True</EnableSell>
+  <EnableRemove>True</EnableRemove>
+  <QuestItems>False</QuestItems>
+  <GoldGrays>0</GoldGrays>
+  <SilverGrays>25</SilverGrays>
+  <CopperGrays>10</CopperGrays>
+  <MinPass>1</MinPass>
+</MIRsettings>
